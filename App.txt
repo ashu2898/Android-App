@@ -1,0 +1,5 @@
+Android App Jeevan:
+1.An App aimed at calling for help in case of any emergency.
+2.Live Location would be send to your known people and even to Authorities.
+3.Message would be send for help for the selected the contacts.
+4.would be able to make emergency calls.
