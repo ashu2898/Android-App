@@ -1,4 +1,4 @@
-# Android App "Emergency Helper" : 
+#Android App "Emergency Helper" : 
   An app aimed at providing help during natural disaster with following feature.
 
 1 The app has a Family Locator Map which allows all members in a family circle to share and monitor everyone's location 
@@ -16,7 +16,7 @@
 
 6 As long as you are safely able to do so, you can also share and upload photos through its “Disaster Reporter” feature.
 
-# Technology used:
+#Technology used:
  1. Tensorflow
  2. Keras
  3. BNP Paribas OBP API
